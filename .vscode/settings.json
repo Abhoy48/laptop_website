@@ -1,9 +1,0 @@
-{
-    "liveServer.settings.port": 5502,
-
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1000,
-
-    "liveServer.settings.wait": 0,
-    "liveServer.settings.noBrowser": false
-}
